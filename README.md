@@ -1,6 +1,1 @@
-This projects encompasses an HTML and CSS beginners courses which includes;
-A project on a personal website
-,A project on a space exploration site
-,A birthday gift site
-,A digital business card and 
-,A Google clone.
+This projects encompasses an HTML and CSS beginners courses which includes; a project on a personal website, a project on a space exploration site, a birthday gift site, a digital business card and a Google clone.
